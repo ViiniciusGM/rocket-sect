@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/92201792/179861515-fa22f3f6-fc6f-4740-8cba-210c6984da6e.png)
 
-Desafio Recriar Layout do Stage 2 da Rockeseat https://viiniciusgm.github.io/stage2-recriarLayout/ 💜🚀
+Desafio Recriar Layout do Stage 2 da Rockeseat https://viiniciusgm.github.io/rocket-sect/ 💜🚀
 
 ##
 
